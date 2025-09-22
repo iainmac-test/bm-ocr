@@ -9,6 +9,10 @@
   "bin": {
     "bm-ocr": "cli.js"
   },
+  "files": [
+    "cli.js",
+    "config/keep-spaces.cfg"
+  ],
   "author": "Iain Macdonald",
   "license": "ISC"
 }

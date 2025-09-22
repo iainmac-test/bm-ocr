@@ -32,6 +32,8 @@ const flags = [
   '4',
   '-l',
   'eng',
+  '--tesseract-config',
+  'keep-spaces.cfg',
   inputPath,
   outputPath,
 ];
