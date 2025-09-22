@@ -1,0 +1,14 @@
+{
+  "name": "bm-ocr",
+  "version": "1.0.0",
+  "description": "Utility CLI tool for running exported Boox BitmapPDFs through ocrmypdf - defaults to relative path and inputs a filepath i.e. boox_export.pdf",
+  "keywords": [
+    "ocr",
+    "ocrmypdf"
+  ],
+  "bin": {
+    "bm-ocr": "cli.js"
+  },
+  "author": "Iain Macdonald",
+  "license": "ISC"
+}
